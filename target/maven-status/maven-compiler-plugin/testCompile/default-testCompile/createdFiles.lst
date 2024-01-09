@@ -1,0 +1,4 @@
+com\example\demo\DemoApplicationTests.class
+com\example\demo\controller\DepartmentControllerTest.class
+com\example\demo\service\DepartmentServiceTest.class
+com\example\demo\repository\DepartmentRepositoryTest.class
